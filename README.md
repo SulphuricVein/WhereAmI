@@ -1,4 +1,4 @@
-# 📍 AreaName
+# 📍 WhereAmI
 
 A simple Android app that tells you **where you are** — instantly.
 
